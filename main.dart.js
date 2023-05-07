@@ -20507,7 +20507,7 @@ return new A.bT(B.Aw,A.cE(A.a([o,A.aV(p,A.cE(A.a([A.aV(p,A.dU("Coding Skills",p,
 os(a){var s=null,r=A.ei(20),q=A.nP(B.aZ,2)
 return A.aV(s,A.hA(A.dU(a,s,s,s,s,s,s,s,A.f0(s,s,B.i,s,s,s,s,s,s,s,s,16,s,s,B.T,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),s,s),B.j,s,s,new A.bV(s,s,q,r,s,s,B.H),s,s,B.et,new A.aj(5,5,5,5),s,s,s)},
 ah2(a){var s,r=null,q=t.w,p=a.F(q).f,o=a.F(q).f.a.a<600?a.F(q).f.a.a/100*30:a.F(q).f.a.a/100*20,n=A.WM(u.P,B.c0),m=A.aV(r,A.ac1("assets/images/background.png",r,a.F(q).f.a.b/100*30,a.F(q).f.a.a/100*100),B.j,r,r,r,r,r,B.Aq,r,r,r,r),l=a.F(q).f,k=t.p
-l=A.aV(B.N,A.cE(A.a([A.aV(r,A.dU("Amjad Ali",r,r,r,r,r,r,r,A.r8(!0,B.i,22,!1),r,r,r),B.j,r,r,r,r,r,r,r,r,r,r),A.dU("Hello I'm Amjad, A Flutter Developer and Application developer I have various skill like web development and Java devolopment",r,r,r,r,r,r,r,A.r8(!0,B.i,12,!1),B.bX,r,r),new A.cm(150,r,A.awL("Download CV",B.lh),r)],k),B.A,B.aY,B.x),B.j,r,r,r,r,r,B.X,B.Al,r,r,l.a.a/100*50)
+l=A.aV(B.N,A.cE(A.a([A.aV(r,A.dU("Height: "+A.j(a.F(q).f.a.b)+"\n Width: "+A.j(a.F(q).f.a.a)+"Amjad Ali",r,r,r,r,r,r,r,A.r8(!0,B.i,22,!1),r,r,r),B.j,r,r,r,r,r,r,r,r,r,r),A.dU("Hello I'm Amjad, A Flutter Developer and Application developer I have various skill like web development and Java devolopment",r,r,r,r,r,r,r,A.r8(!0,B.i,12,!1),B.bX,r,r),new A.cm(150,r,A.awL("Download CV",B.lh),r)],k),B.A,B.aY,B.x),B.j,r,r,r,r,r,B.X,B.Al,r,r,l.a.a/100*50)
 s=new A.WW(a.F(q).f).ga20()!==B.ju?a.F(q).f.a.a*0.08:0
 return A.ig(B.av,A.a([new A.cm(p.a.a,o,n,r),m,new A.eG(B.jK,r,r,l,r),new A.eG(B.dZ,r,r,A.aV(r,A.abC(A.ac1("assets/images/profile.png",r,a.F(q).f.a.a<1000?a.F(q).f.a.b/100*40:a.F(q).f.a.a/100*20,r),B.J),B.j,r,r,r,r,r,new A.aj(80,0,s,0),r,r,r,r),r)],k),B.J,B.aC)},
 ab0(a,b,c,d){var s,r,q,p,o=null
