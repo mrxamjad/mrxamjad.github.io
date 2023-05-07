@@ -18452,14 +18452,14 @@ return A.aV(s,A.ig(B.av,A.a([A.WM(u.P,B.c0),new A.HW(new A.UO(),s),A.cE(A.a([A.a
 UO:function UO(){},
 UN:function UN(){},
 ahE(a){var s,r=null,q=t.w,p=a.D(q).f.a.b/100*35,o=a.D(q).f.a.b/100*30,n=A.aV(r,A.os("People that always been our fist priority"),B.j,r,r,r,r,r,new A.aj(0,10,0,0),r,r,r,r)
-if(a.D(q).f.a.b<550)s=165
+if(a.D(q).f.a.b<550)s=175
 else s=a.D(q).f.a.a<500?o:p
 q=a.D(q).f
 $.P7().toString
 return new A.bT(B.X,A.cE(A.a([n,A.aV(r,new A.bT(B.ag,A.ahW(1.7777777777777777,!0,A.bs(0,0,2),B.b8,B.l_,new A.a2K(),6,!1,B.a3,0.8),r),B.j,r,r,B.jQ,r,s,r,r,r,r,q.a.a)],t.p),B.A,B.K,B.x),r)},
 a2K:function a2K(){},
 ahs(a){var s,r=null,q=A.aV(r,A.os("Skills that always make me more accurate"),B.j,r,r,r,r,r,new A.aj(0,10,0,0),r,r,r,r),p=t.w
-if(a.D(p).f.a.b<550)p=180
+if(a.D(p).f.a.b<550)p=220
 else p=a.D(p).f.a.a>=500?a.D(p).f.a.b/100*40:a.D(p).f.a.b/100*32
 $.abg().toString
 s=r
@@ -20502,8 +20502,8 @@ a.bx(0)
 a.hx(0,j,B.h)
 A.by(i)},
 afr(a){var s,r,q,p,o=null,n=A.aV(o,A.os("Excellence In Programing & Coding"),B.j,o,o,o,o,o,new A.aj(0,10,0,0),o,o,o,o),m=t.w
-if(a.D(m).f.a.b<550)s=145
-else s=a.D(m).f.a.a>=500?a.D(m).f.a.b/100*32:a.D(m).f.a.b/100*26
+if(a.D(m).f.a.b<550)s=160
+else s=a.D(m).f.a.a>=500?a.D(m).f.a.b/100*32:a.D(m).f.a.b/100*28
 m=a.D(m).f
 r=A.ei(30)
 q=A.nP(B.dg,3)
@@ -20521,7 +20521,7 @@ p=a.D(l).f
 o=t.p
 p=A.aV(B.N,A.cE(A.a([A.aV(m,A.dU("Height: "+A.j(a.D(l).f.a.b)+"\n Width: "+A.j(a.D(l).f.a.a)+"Amjad Ali",m,m,m,m,m,m,m,A.r8(!0,B.i,22,!1),m,m,m),B.j,m,m,m,m,m,m,m,m,m,m),A.dU("Hello I'm Amjad, A Flutter Developer and Application developer I have various skill like web development and Java devolopment",m,m,m,m,m,m,m,A.r8(!0,B.i,12,!1),B.bX,m,m),new A.cm(150,m,A.awL("Download CV",B.lh),m)],o),B.A,B.aY,B.x),B.j,m,m,m,m,m,B.X,B.Al,m,m,p.a.a/100*50)
 n=new A.WW(a.D(l).f).ga20()!==B.ju?a.D(l).f.a.a*0.08:0
-if(a.D(l).f.a.b<550)l=110
+if(a.D(l).f.a.b<550)l=140
 else l=a.D(l).f.a.a<1000?a.D(l).f.a.b/100*40:a.D(l).f.a.a/100*20
 return A.ig(B.av,A.a([new A.cm(k.a.a,s,r,m),q,new A.eG(B.jK,m,m,p,m),new A.eG(B.dZ,m,m,A.aV(m,A.abC(A.ac1("assets/images/profile.png",m,l,m),B.J),B.j,m,m,m,m,m,new A.aj(80,0,n,0),m,m,m,m),m)],o),B.J,B.aC)},
 ab0(a,b,c,d){var s,r,q,p,o=null
@@ -60430,11 +60430,11 @@ $0(){},
 $S:0}
 A.a2K.prototype={
 $2(a,b){var s,r,q,p,o=null,n=$.P7().b[b].j(0,"name"),m=$.P7().b[b].j(0,"post"),l=$.P7().b[b].j(0,"caption"),k=t.w,j=a.D(k).f.a.b/100*35,i=a.D(k).f.a.b/100*30
-if(a.D(k).f.a.b<550)s=155
+if(a.D(k).f.a.b<550)s=165
 else s=a.D(k).f.a.a<500?i-10:j-10
 r=A.a([$.amF(),$.aeA()],t.t_)
 q=a.D(k).f
-if(a.D(k).f.a.b<550)k=150
+if(a.D(k).f.a.b<550)k=160
 else k=a.D(k).f.a.a<500?i-15:j-15
 p=t.p
 return new A.bT(B.ag,A.hA(new A.cm(o,s,A.AT(!0,A.aV(o,A.cE(A.a([A.kL(A.a([B.wW,A.aV(o,A.cE(A.a([A.dU(n,o,o,o,o,o,o,o,A.r8(!0,B.n,16,!1),o,o,o),A.dU(m,o,o,o,o,o,o,o,o,o,o,o)],p),B.A,B.K,B.x),B.j,o,o,o,o,o,B.An,o,o,o,o)],p),B.A,B.K,B.x),new A.bT(B.l4,A.AT(!0,A.aV(o,A.hA(A.dU(l,o,o,o,o,o,o,o,A.r8(!1,$.amH(),14,!0),o,o,o),o,o),B.j,o,o,o,o,o,o,B.ag,o,o,o),o,B.i,5,B.n,B.Gz,o),o)],p),B.A,B.K,B.x),B.j,o,o,new A.bV(o,o,o,B.jO,o,new A.eQ(B.jK,B.dZ,B.au,r,o,o),B.H),o,k,o,B.et,o,o,q.a.a/100*80),o,o,10,o,B.GA,o),o),o,o),o)},
